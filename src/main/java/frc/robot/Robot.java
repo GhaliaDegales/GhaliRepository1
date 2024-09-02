@@ -36,7 +36,7 @@ DifferentialDrive chassis = new DifferentialDrive(chassis_right_front, chassis_l
 
 /******************************* WRIST *************************************/
 
-Solenoid solenoid_wrist = new Solenoid(PneumaticsModuleType.REVPH, 1); 
+
 
 /******************************* INTAKE *************************************/
 
